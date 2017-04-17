@@ -1,0 +1,6 @@
+#ifndef WELCOMEGAMESCREEN_BITMAP_H
+#define WELCOMEGAMESCREEN_BITMAP_H
+extern const unsigned short welcomeGameScreen[38400];
+#define WELCOMEGAMESCREEN_WIDTH 240
+#define WELCOMEGAMESCREEN_HEIGHT 160
+#endif
